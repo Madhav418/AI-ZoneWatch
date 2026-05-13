@@ -14,6 +14,7 @@
       "name": "waiting_zone",
       "type": "loitering",
       "loiter_time": 10,
+      "stationary_threshold_px": 25,
       "points": [
         [600,100],
         [900,100],

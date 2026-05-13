@@ -1,0 +1,12 @@
+timestamp,frame,track_id,event_type,zone_name,bbox_x1,bbox_y1,bbox_x2,bbox_y2,confidence
+2026-05-14 00:10:33,2,2,zone_intrusion,restricted_area,52,136,161,406,0.8419
+2026-05-14 00:10:36,32,2,zone_intrusion,restricted_area,125,129,254,408,0.8661
+2026-05-14 00:10:40,62,2,zone_intrusion,restricted_area,261,118,363,420,0.8637
+2026-05-14 00:10:43,92,2,zone_intrusion,restricted_area,287,125,392,411,0.84
+2026-05-14 00:10:47,122,2,zone_intrusion,restricted_area,287,120,385,415,0.8416
+2026-05-14 00:10:50,151,1,zone_intrusion,restricted_area,437,53,561,443,0.8826
+2026-05-14 00:10:51,152,2,zone_intrusion,restricted_area,280,123,386,415,0.8649
+2026-05-14 00:10:54,181,1,zone_intrusion,restricted_area,341,81,463,427,1.0
+2026-05-14 00:10:54,182,2,zone_intrusion,restricted_area,332,114,478,425,0.8312
+2026-05-14 00:10:58,211,1,zone_intrusion,restricted_area,170,75,288,419,0.8777
+2026-05-14 00:11:03,241,1,zone_intrusion,restricted_area,52,72,181,414,0.8953

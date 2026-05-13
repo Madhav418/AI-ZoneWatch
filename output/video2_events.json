@@ -1,0 +1,156 @@
+[
+  {
+    "frame": 2,
+    "timestamp": "2026-05-14 00:10:33",
+    "track_id": 2,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      52,
+      136,
+      161,
+      406
+    ],
+    "confidence": 0.8419
+  },
+  {
+    "frame": 32,
+    "timestamp": "2026-05-14 00:10:36",
+    "track_id": 2,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      125,
+      129,
+      254,
+      408
+    ],
+    "confidence": 0.8661
+  },
+  {
+    "frame": 62,
+    "timestamp": "2026-05-14 00:10:40",
+    "track_id": 2,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      261,
+      118,
+      363,
+      420
+    ],
+    "confidence": 0.8637
+  },
+  {
+    "frame": 92,
+    "timestamp": "2026-05-14 00:10:43",
+    "track_id": 2,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      287,
+      125,
+      392,
+      411
+    ],
+    "confidence": 0.84
+  },
+  {
+    "frame": 122,
+    "timestamp": "2026-05-14 00:10:47",
+    "track_id": 2,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      287,
+      120,
+      385,
+      415
+    ],
+    "confidence": 0.8416
+  },
+  {
+    "frame": 151,
+    "timestamp": "2026-05-14 00:10:50",
+    "track_id": 1,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      437,
+      53,
+      561,
+      443
+    ],
+    "confidence": 0.8826
+  },
+  {
+    "frame": 152,
+    "timestamp": "2026-05-14 00:10:51",
+    "track_id": 2,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      280,
+      123,
+      386,
+      415
+    ],
+    "confidence": 0.8649
+  },
+  {
+    "frame": 181,
+    "timestamp": "2026-05-14 00:10:54",
+    "track_id": 1,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      341,
+      81,
+      463,
+      427
+    ],
+    "confidence": 1.0
+  },
+  {
+    "frame": 182,
+    "timestamp": "2026-05-14 00:10:54",
+    "track_id": 2,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      332,
+      114,
+      478,
+      425
+    ],
+    "confidence": 0.8312
+  },
+  {
+    "frame": 211,
+    "timestamp": "2026-05-14 00:10:58",
+    "track_id": 1,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      170,
+      75,
+      288,
+      419
+    ],
+    "confidence": 0.8777
+  },
+  {
+    "frame": 241,
+    "timestamp": "2026-05-14 00:11:03",
+    "track_id": 1,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      52,
+      72,
+      181,
+      414
+    ],
+    "confidence": 0.8953
+  }
+]

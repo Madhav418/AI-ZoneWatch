@@ -17,15 +17,9 @@ ENV/
 *~
 .DS_Store
 
-# Model weights
-*.pt
-*.weights
-*.onnx
 
-# Output directories
-results/
-output/
-logs/
+
+
 
 # Jupyter Notebook
 .ipynb_checkpoints/
@@ -44,11 +38,7 @@ dist/
 Thumbs.db
 .DS_Store
 
-# Videos (too large for repo)
-*.mp4
-*.avi
-*.mov
-*.mkv
+
 
 # Temporary files
 *.tmp

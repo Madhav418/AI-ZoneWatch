@@ -1,11 +1,13 @@
 from ultralytics import YOLO
 
+
 class PersonDetector:
-    def __init__(self, model_path='yolov8n.pt'):
+    def __init__(self, model_path='yolov8n.pt', conf_threshold=0.5):
         self.model = YOLO(model_path)
+        self.conf_threshold = conf_threshold
 
     def detect(self, frame):
-        results = self.model(frame, verbose=False)[0]
+        results = self.model(frame, verbose=False, conf=self.conf_threshold)[0]
 
         detections = []
 

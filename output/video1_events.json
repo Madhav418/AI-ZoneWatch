@@ -1,0 +1,1654 @@
+[
+  {
+    "frame": 2,
+    "timestamp": "2026-05-14 00:05:33",
+    "track_id": 5,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      296,
+      203,
+      312,
+      248
+    ],
+    "confidence": 0.7151
+  },
+  {
+    "frame": 2,
+    "timestamp": "2026-05-14 00:05:33",
+    "track_id": 6,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      386,
+      243,
+      408,
+      307
+    ],
+    "confidence": 0.7139
+  },
+  {
+    "frame": 2,
+    "timestamp": "2026-05-14 00:05:33",
+    "track_id": 7,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      273,
+      201,
+      290,
+      249
+    ],
+    "confidence": 0.6541
+  },
+  {
+    "frame": 9,
+    "timestamp": "2026-05-14 00:05:35",
+    "track_id": 8,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      407,
+      236,
+      419,
+      292
+    ],
+    "confidence": 0.614
+  },
+  {
+    "frame": 32,
+    "timestamp": "2026-05-14 00:05:41",
+    "track_id": 5,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      301,
+      202,
+      320,
+      255
+    ],
+    "confidence": 0.7515
+  },
+  {
+    "frame": 32,
+    "timestamp": "2026-05-14 00:05:41",
+    "track_id": 6,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      371,
+      236,
+      393,
+      300
+    ],
+    "confidence": 1.0
+  },
+  {
+    "frame": 32,
+    "timestamp": "2026-05-14 00:05:41",
+    "track_id": 7,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      278,
+      200,
+      297,
+      255
+    ],
+    "confidence": 0.7364
+  },
+  {
+    "frame": 39,
+    "timestamp": "2026-05-14 00:05:44",
+    "track_id": 8,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      390,
+      232,
+      411,
+      296
+    ],
+    "confidence": 0.6415
+  },
+  {
+    "frame": 47,
+    "timestamp": "2026-05-14 00:05:46",
+    "track_id": 9,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      175,
+      202,
+      191,
+      238
+    ],
+    "confidence": 0.5895
+  },
+  {
+    "frame": 62,
+    "timestamp": "2026-05-14 00:05:51",
+    "track_id": 5,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      304,
+      206,
+      323,
+      261
+    ],
+    "confidence": 0.805
+  },
+  {
+    "frame": 62,
+    "timestamp": "2026-05-14 00:05:51",
+    "track_id": 6,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      357,
+      230,
+      377,
+      290
+    ],
+    "confidence": 1.0
+  },
+  {
+    "frame": 62,
+    "timestamp": "2026-05-14 00:05:51",
+    "track_id": 7,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      279,
+      210,
+      298,
+      259
+    ],
+    "confidence": 0.7298
+  },
+  {
+    "frame": 69,
+    "timestamp": "2026-05-14 00:05:54",
+    "track_id": 8,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      378,
+      226,
+      400,
+      289
+    ],
+    "confidence": 0.6789
+  },
+  {
+    "frame": 77,
+    "timestamp": "2026-05-14 00:05:56",
+    "track_id": 9,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      272,
+      199,
+      291,
+      241
+    ],
+    "confidence": 1.0
+  },
+  {
+    "frame": 92,
+    "timestamp": "2026-05-14 00:06:01",
+    "track_id": 5,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      307,
+      211,
+      327,
+      268
+    ],
+    "confidence": 0.7189
+  },
+  {
+    "frame": 92,
+    "timestamp": "2026-05-14 00:06:01",
+    "track_id": 6,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      349,
+      230,
+      367,
+      269
+    ],
+    "confidence": 0.6018
+  },
+  {
+    "frame": 92,
+    "timestamp": "2026-05-14 00:06:01",
+    "track_id": 7,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      277,
+      221,
+      295,
+      270
+    ],
+    "confidence": 1.0
+  },
+  {
+    "frame": 99,
+    "timestamp": "2026-05-14 00:06:03",
+    "track_id": 8,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      369,
+      222,
+      389,
+      275
+    ],
+    "confidence": 0.8376
+  },
+  {
+    "frame": 107,
+    "timestamp": "2026-05-14 00:06:06",
+    "track_id": 9,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      279,
+      219,
+      300,
+      270
+    ],
+    "confidence": 0.7673
+  },
+  {
+    "frame": 111,
+    "timestamp": "2026-05-14 00:06:07",
+    "track_id": 1,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      483,
+      286,
+      516,
+      382
+    ],
+    "confidence": 0.8878
+  },
+  {
+    "frame": 122,
+    "timestamp": "2026-05-14 00:06:10",
+    "track_id": 5,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      309,
+      217,
+      330,
+      270
+    ],
+    "confidence": 0.703
+  },
+  {
+    "frame": 122,
+    "timestamp": "2026-05-14 00:06:10",
+    "track_id": 6,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      345,
+      227,
+      361,
+      268
+    ],
+    "confidence": 0.8132
+  },
+  {
+    "frame": 122,
+    "timestamp": "2026-05-14 00:06:10",
+    "track_id": 7,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      274,
+      233,
+      292,
+      278
+    ],
+    "confidence": 1.0
+  },
+  {
+    "frame": 129,
+    "timestamp": "2026-05-14 00:06:12",
+    "track_id": 8,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      358,
+      219,
+      377,
+      267
+    ],
+    "confidence": 0.7076
+  },
+  {
+    "frame": 137,
+    "timestamp": "2026-05-14 00:06:14",
+    "track_id": 9,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      288,
+      226,
+      306,
+      271
+    ],
+    "confidence": 0.5205
+  },
+  {
+    "frame": 141,
+    "timestamp": "2026-05-14 00:06:15",
+    "track_id": 1,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      457,
+      276,
+      488,
+      366
+    ],
+    "confidence": 0.8265
+  },
+  {
+    "frame": 152,
+    "timestamp": "2026-05-14 00:06:18",
+    "track_id": 5,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      317,
+      225,
+      336,
+      267
+    ],
+    "confidence": 0.5063
+  },
+  {
+    "frame": 152,
+    "timestamp": "2026-05-14 00:06:18",
+    "track_id": 6,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      335,
+      219,
+      352,
+      266
+    ],
+    "confidence": 1.0
+  },
+  {
+    "frame": 152,
+    "timestamp": "2026-05-14 00:06:18",
+    "track_id": 7,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      178,
+      169,
+      192,
+      201
+    ],
+    "confidence": 0.5809
+  },
+  {
+    "frame": 154,
+    "timestamp": "2026-05-14 00:06:18",
+    "track_id": 3,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      484,
+      279,
+      514,
+      362
+    ],
+    "confidence": 0.8617
+  },
+  {
+    "frame": 159,
+    "timestamp": "2026-05-14 00:06:20",
+    "track_id": 8,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      348,
+      217,
+      365,
+      264
+    ],
+    "confidence": 1.0
+  },
+  {
+    "frame": 167,
+    "timestamp": "2026-05-14 00:06:22",
+    "track_id": 9,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      291,
+      231,
+      310,
+      267
+    ],
+    "confidence": 1.0
+  },
+  {
+    "frame": 171,
+    "timestamp": "2026-05-14 00:06:23",
+    "track_id": 1,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      435,
+      270,
+      463,
+      353
+    ],
+    "confidence": 0.8186
+  },
+  {
+    "frame": 182,
+    "timestamp": "2026-05-14 00:06:25",
+    "track_id": 5,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      324,
+      220,
+      347,
+      266
+    ],
+    "confidence": 1.0
+  },
+  {
+    "frame": 182,
+    "timestamp": "2026-05-14 00:06:25",
+    "track_id": 6,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      336,
+      210,
+      357,
+      266
+    ],
+    "confidence": 1.0
+  },
+  {
+    "frame": 182,
+    "timestamp": "2026-05-14 00:06:25",
+    "track_id": 7,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      178,
+      172,
+      192,
+      205
+    ],
+    "confidence": 0.528
+  },
+  {
+    "frame": 184,
+    "timestamp": "2026-05-14 00:06:26",
+    "track_id": 3,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      466,
+      269,
+      494,
+      348
+    ],
+    "confidence": 0.8216
+  },
+  {
+    "frame": 189,
+    "timestamp": "2026-05-14 00:06:27",
+    "track_id": 8,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      306,
+      214,
+      327,
+      265
+    ],
+    "confidence": 1.0
+  },
+  {
+    "frame": 197,
+    "timestamp": "2026-05-14 00:06:28",
+    "track_id": 9,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      300,
+      235,
+      315,
+      263
+    ],
+    "confidence": 1.0
+  },
+  {
+    "frame": 201,
+    "timestamp": "2026-05-14 00:06:29",
+    "track_id": 1,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      424,
+      263,
+      444,
+      335
+    ],
+    "confidence": 1.0
+  },
+  {
+    "frame": 201,
+    "timestamp": "2026-05-14 00:06:29",
+    "track_id": 4,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      485,
+      254,
+      514,
+      336
+    ],
+    "confidence": 0.8319
+  },
+  {
+    "frame": 212,
+    "timestamp": "2026-05-14 00:06:31",
+    "track_id": 5,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      332,
+      217,
+      355,
+      263
+    ],
+    "confidence": 1.0
+  },
+  {
+    "frame": 212,
+    "timestamp": "2026-05-14 00:06:31",
+    "track_id": 6,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      330,
+      235,
+      353,
+      269
+    ],
+    "confidence": 1.0
+  },
+  {
+    "frame": 212,
+    "timestamp": "2026-05-14 00:06:31",
+    "track_id": 7,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      178,
+      167,
+      192,
+      204
+    ],
+    "confidence": 0.5721
+  },
+  {
+    "frame": 214,
+    "timestamp": "2026-05-14 00:06:32",
+    "track_id": 3,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      443,
+      262,
+      469,
+      336
+    ],
+    "confidence": 0.7461
+  },
+  {
+    "frame": 219,
+    "timestamp": "2026-05-14 00:06:33",
+    "track_id": 8,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      291,
+      211,
+      307,
+      258
+    ],
+    "confidence": 0.6094
+  },
+  {
+    "frame": 227,
+    "timestamp": "2026-05-14 00:06:35",
+    "track_id": 9,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      308,
+      239,
+      319,
+      259
+    ],
+    "confidence": 1.0
+  },
+  {
+    "frame": 231,
+    "timestamp": "2026-05-14 00:06:35",
+    "track_id": 1,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      398,
+      252,
+      417,
+      324
+    ],
+    "confidence": 0.5266
+  },
+  {
+    "frame": 231,
+    "timestamp": "2026-05-14 00:06:35",
+    "track_id": 4,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      471,
+      246,
+      499,
+      325
+    ],
+    "confidence": 0.8408
+  },
+  {
+    "frame": 242,
+    "timestamp": "2026-05-14 00:06:38",
+    "track_id": 5,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      310,
+      205,
+      328,
+      255
+    ],
+    "confidence": 0.8495
+  },
+  {
+    "frame": 242,
+    "timestamp": "2026-05-14 00:06:38",
+    "track_id": 6,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      354,
+      246,
+      371,
+      267
+    ],
+    "confidence": 1.0
+  },
+  {
+    "frame": 242,
+    "timestamp": "2026-05-14 00:06:38",
+    "track_id": 7,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      176,
+      167,
+      190,
+      208
+    ],
+    "confidence": 1.0
+  },
+  {
+    "frame": 244,
+    "timestamp": "2026-05-14 00:06:38",
+    "track_id": 3,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      426,
+      254,
+      451,
+      325
+    ],
+    "confidence": 0.7946
+  },
+  {
+    "frame": 249,
+    "timestamp": "2026-05-14 00:06:39",
+    "track_id": 8,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      285,
+      210,
+      300,
+      256
+    ],
+    "confidence": 0.7648
+  },
+  {
+    "frame": 257,
+    "timestamp": "2026-05-14 00:06:41",
+    "track_id": 9,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      368,
+      247,
+      403,
+      338
+    ],
+    "confidence": 1.0
+  },
+  {
+    "frame": 261,
+    "timestamp": "2026-05-14 00:06:42",
+    "track_id": 1,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      376,
+      257,
+      404,
+      341
+    ],
+    "confidence": 0.737
+  },
+  {
+    "frame": 261,
+    "timestamp": "2026-05-14 00:06:42",
+    "track_id": 4,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      453,
+      240,
+      480,
+      314
+    ],
+    "confidence": 0.8259
+  },
+  {
+    "frame": 272,
+    "timestamp": "2026-05-14 00:06:44",
+    "track_id": 5,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      303,
+      202,
+      320,
+      250
+    ],
+    "confidence": 0.8263
+  },
+  {
+    "frame": 272,
+    "timestamp": "2026-05-14 00:06:44",
+    "track_id": 6,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      377,
+      258,
+      382,
+      265
+    ],
+    "confidence": 1.0
+  },
+  {
+    "frame": 272,
+    "timestamp": "2026-05-14 00:06:44",
+    "track_id": 7,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      169,
+      168,
+      183,
+      207
+    ],
+    "confidence": 0.5442
+  },
+  {
+    "frame": 274,
+    "timestamp": "2026-05-14 00:06:45",
+    "track_id": 3,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      372,
+      236,
+      394,
+      311
+    ],
+    "confidence": 0.7426
+  },
+  {
+    "frame": 279,
+    "timestamp": "2026-05-14 00:06:46",
+    "track_id": 8,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      283,
+      206,
+      300,
+      251
+    ],
+    "confidence": 0.7847
+  },
+  {
+    "frame": 287,
+    "timestamp": "2026-05-14 00:06:47",
+    "track_id": 9,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      440,
+      272,
+      477,
+      360
+    ],
+    "confidence": 0.7271
+  },
+  {
+    "frame": 291,
+    "timestamp": "2026-05-14 00:06:48",
+    "track_id": 1,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      416,
+      281,
+      424,
+      305
+    ],
+    "confidence": 1.0
+  },
+  {
+    "frame": 291,
+    "timestamp": "2026-05-14 00:06:48",
+    "track_id": 4,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      432,
+      241,
+      472,
+      356
+    ],
+    "confidence": 0.7443
+  },
+  {
+    "frame": 300,
+    "timestamp": "2026-05-14 00:06:50",
+    "track_id": 11,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      395,
+      248,
+      416,
+      305
+    ],
+    "confidence": 0.6168
+  },
+  {
+    "frame": 302,
+    "timestamp": "2026-05-14 00:06:51",
+    "track_id": 5,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      299,
+      199,
+      318,
+      244
+    ],
+    "confidence": 0.8056
+  },
+  {
+    "frame": 302,
+    "timestamp": "2026-05-14 00:06:51",
+    "track_id": 6,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      354,
+      234,
+      379,
+      269
+    ],
+    "confidence": 0.5633
+  },
+  {
+    "frame": 302,
+    "timestamp": "2026-05-14 00:06:51",
+    "track_id": 7,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      168,
+      170,
+      182,
+      207
+    ],
+    "confidence": 1.0
+  },
+  {
+    "frame": 304,
+    "timestamp": "2026-05-14 00:06:51",
+    "track_id": 3,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      350,
+      236,
+      372,
+      302
+    ],
+    "confidence": 1.0
+  },
+  {
+    "frame": 309,
+    "timestamp": "2026-05-14 00:06:53",
+    "track_id": 8,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      283,
+      204,
+      298,
+      246
+    ],
+    "confidence": 0.6533
+  },
+  {
+    "frame": 321,
+    "timestamp": "2026-05-14 00:06:55",
+    "track_id": 1,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      425,
+      232,
+      446,
+      295
+    ],
+    "confidence": 1.0
+  },
+  {
+    "frame": 330,
+    "timestamp": "2026-05-14 00:06:57",
+    "track_id": 11,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      377,
+      229,
+      402,
+      300
+    ],
+    "confidence": 0.6881
+  },
+  {
+    "frame": 332,
+    "timestamp": "2026-05-14 00:06:58",
+    "track_id": 5,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      297,
+      197,
+      315,
+      243
+    ],
+    "confidence": 0.8369
+  },
+  {
+    "frame": 332,
+    "timestamp": "2026-05-14 00:06:58",
+    "track_id": 6,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      349,
+      231,
+      374,
+      268
+    ],
+    "confidence": 1.0
+  },
+  {
+    "frame": 332,
+    "timestamp": "2026-05-14 00:06:58",
+    "track_id": 7,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      167,
+      171,
+      181,
+      207
+    ],
+    "confidence": 1.0
+  },
+  {
+    "frame": 334,
+    "timestamp": "2026-05-14 00:06:58",
+    "track_id": 3,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      324,
+      237,
+      342,
+      292
+    ],
+    "confidence": 1.0
+  },
+  {
+    "frame": 339,
+    "timestamp": "2026-05-14 00:07:00",
+    "track_id": 8,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      283,
+      204,
+      297,
+      244
+    ],
+    "confidence": 0.6562
+  },
+  {
+    "frame": 351,
+    "timestamp": "2026-05-14 00:07:03",
+    "track_id": 1,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      393,
+      228,
+      414,
+      291
+    ],
+    "confidence": 0.831
+  },
+  {
+    "frame": 360,
+    "timestamp": "2026-05-14 00:07:04",
+    "track_id": 11,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      364,
+      231,
+      384,
+      293
+    ],
+    "confidence": 1.0
+  },
+  {
+    "frame": 362,
+    "timestamp": "2026-05-14 00:07:05",
+    "track_id": 5,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      294,
+      196,
+      309,
+      240
+    ],
+    "confidence": 0.6974
+  },
+  {
+    "frame": 362,
+    "timestamp": "2026-05-14 00:07:05",
+    "track_id": 6,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      345,
+      229,
+      370,
+      267
+    ],
+    "confidence": 1.0
+  },
+  {
+    "frame": 362,
+    "timestamp": "2026-05-14 00:07:05",
+    "track_id": 7,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      165,
+      172,
+      179,
+      207
+    ],
+    "confidence": 1.0
+  },
+  {
+    "frame": 364,
+    "timestamp": "2026-05-14 00:07:05",
+    "track_id": 3,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      297,
+      238,
+      311,
+      282
+    ],
+    "confidence": 1.0
+  },
+  {
+    "frame": 369,
+    "timestamp": "2026-05-14 00:07:06",
+    "track_id": 8,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      279,
+      196,
+      292,
+      237
+    ],
+    "confidence": 0.5671
+  },
+  {
+    "frame": 381,
+    "timestamp": "2026-05-14 00:07:08",
+    "track_id": 1,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      376,
+      224,
+      400,
+      286
+    ],
+    "confidence": 0.7829
+  },
+  {
+    "frame": 390,
+    "timestamp": "2026-05-14 00:07:09",
+    "track_id": 11,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      316,
+      226,
+      331,
+      268
+    ],
+    "confidence": 1.0
+  },
+  {
+    "frame": 392,
+    "timestamp": "2026-05-14 00:07:09",
+    "track_id": 5,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      291,
+      195,
+      303,
+      234
+    ],
+    "confidence": 0.6451
+  },
+  {
+    "frame": 392,
+    "timestamp": "2026-05-14 00:07:09",
+    "track_id": 6,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      340,
+      226,
+      367,
+      266
+    ],
+    "confidence": 1.0
+  },
+  {
+    "frame": 399,
+    "timestamp": "2026-05-14 00:07:11",
+    "track_id": 8,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      276,
+      194,
+      288,
+      233
+    ],
+    "confidence": 0.5398
+  },
+  {
+    "frame": 411,
+    "timestamp": "2026-05-14 00:07:12",
+    "track_id": 1,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      363,
+      223,
+      382,
+      272
+    ],
+    "confidence": 0.5949
+  },
+  {
+    "frame": 417,
+    "timestamp": "2026-05-14 00:07:13",
+    "track_id": 7,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      161,
+      173,
+      176,
+      212
+    ],
+    "confidence": 0.5293
+  },
+  {
+    "frame": 420,
+    "timestamp": "2026-05-14 00:07:13",
+    "track_id": 11,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      298,
+      223,
+      317,
+      269
+    ],
+    "confidence": 0.5258
+  },
+  {
+    "frame": 422,
+    "timestamp": "2026-05-14 00:07:14",
+    "track_id": 5,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      284,
+      192,
+      298,
+      230
+    ],
+    "confidence": 1.0
+  },
+  {
+    "frame": 429,
+    "timestamp": "2026-05-14 00:07:15",
+    "track_id": 8,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      272,
+      192,
+      283,
+      228
+    ],
+    "confidence": 1.0
+  },
+  {
+    "frame": 441,
+    "timestamp": "2026-05-14 00:07:16",
+    "track_id": 1,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      346,
+      219,
+      367,
+      269
+    ],
+    "confidence": 0.8512
+  },
+  {
+    "frame": 447,
+    "timestamp": "2026-05-14 00:07:17",
+    "track_id": 7,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      152,
+      171,
+      169,
+      215
+    ],
+    "confidence": 1.0
+  },
+  {
+    "frame": 450,
+    "timestamp": "2026-05-14 00:07:18",
+    "track_id": 11,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      285,
+      218,
+      305,
+      272
+    ],
+    "confidence": 0.7191
+  },
+  {
+    "frame": 452,
+    "timestamp": "2026-05-14 00:07:18",
+    "track_id": 5,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      264,
+      193,
+      275,
+      228
+    ],
+    "confidence": 0.5352
+  },
+  {
+    "frame": 459,
+    "timestamp": "2026-05-14 00:07:20",
+    "track_id": 8,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      319,
+      222,
+      338,
+      269
+    ],
+    "confidence": 0.7578
+  },
+  {
+    "frame": 471,
+    "timestamp": "2026-05-14 00:07:22",
+    "track_id": 1,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      333,
+      215,
+      354,
+      268
+    ],
+    "confidence": 0.8231
+  },
+  {
+    "frame": 477,
+    "timestamp": "2026-05-14 00:07:23",
+    "track_id": 7,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      167,
+      169,
+      180,
+      202
+    ],
+    "confidence": 0.5968
+  },
+  {
+    "frame": 480,
+    "timestamp": "2026-05-14 00:07:24",
+    "track_id": 11,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      276,
+      214,
+      295,
+      268
+    ],
+    "confidence": 0.7517
+  },
+  {
+    "frame": 482,
+    "timestamp": "2026-05-14 00:07:24",
+    "track_id": 5,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      262,
+      190,
+      273,
+      226
+    ],
+    "confidence": 0.618
+  },
+  {
+    "frame": 489,
+    "timestamp": "2026-05-14 00:07:26",
+    "track_id": 8,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      308,
+      217,
+      328,
+      267
+    ],
+    "confidence": 0.7911
+  },
+  {
+    "frame": 501,
+    "timestamp": "2026-05-14 00:07:28",
+    "track_id": 1,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      328,
+      211,
+      347,
+      265
+    ],
+    "confidence": 0.8179
+  },
+  {
+    "frame": 507,
+    "timestamp": "2026-05-14 00:07:29",
+    "track_id": 7,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      169,
+      173,
+      181,
+      204
+    ],
+    "confidence": 1.0
+  },
+  {
+    "frame": 510,
+    "timestamp": "2026-05-14 00:07:30",
+    "track_id": 11,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      268,
+      212,
+      285,
+      264
+    ],
+    "confidence": 0.731
+  },
+  {
+    "frame": 512,
+    "timestamp": "2026-05-14 00:07:30",
+    "track_id": 5,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      251,
+      190,
+      263,
+      223
+    ],
+    "confidence": 1.0
+  },
+  {
+    "frame": 519,
+    "timestamp": "2026-05-14 00:07:31",
+    "track_id": 8,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      300,
+      217,
+      316,
+      265
+    ],
+    "confidence": 0.7359
+  },
+  {
+    "frame": 531,
+    "timestamp": "2026-05-14 00:07:33",
+    "track_id": 1,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      319,
+      208,
+      338,
+      262
+    ],
+    "confidence": 0.8067
+  },
+  {
+    "frame": 540,
+    "timestamp": "2026-05-14 00:07:35",
+    "track_id": 11,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      270,
+      207,
+      287,
+      259
+    ],
+    "confidence": 0.6916
+  },
+  {
+    "frame": 542,
+    "timestamp": "2026-05-14 00:07:35",
+    "track_id": 5,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      242,
+      185,
+      256,
+      222
+    ],
+    "confidence": 1.0
+  },
+  {
+    "frame": 549,
+    "timestamp": "2026-05-14 00:07:36",
+    "track_id": 8,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      295,
+      213,
+      312,
+      260
+    ],
+    "confidence": 0.7236
+  },
+  {
+    "frame": 561,
+    "timestamp": "2026-05-14 00:07:38",
+    "track_id": 1,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      311,
+      205,
+      330,
+      257
+    ],
+    "confidence": 0.856
+  },
+  {
+    "frame": 570,
+    "timestamp": "2026-05-14 00:07:39",
+    "track_id": 11,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      270,
+      205,
+      286,
+      256
+    ],
+    "confidence": 0.7753
+  },
+  {
+    "frame": 572,
+    "timestamp": "2026-05-14 00:07:40",
+    "track_id": 5,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      237,
+      184,
+      251,
+      217
+    ],
+    "confidence": 0.5196
+  },
+  {
+    "frame": 579,
+    "timestamp": "2026-05-14 00:07:41",
+    "track_id": 8,
+    "event": "zone_intrusion",
+    "zone": "restricted_area",
+    "bbox": [
+      290,
+      210,
+      308,
+      256
+    ],
+    "confidence": 0.707
+  }
+]
