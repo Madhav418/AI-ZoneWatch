@@ -1,0 +1,25 @@
+{
+  "zones": [
+    {
+      "name": "restricted_area",
+      "type": "intrusion",
+      "points": [
+        [100,100],
+        [500,100],
+        [500,400],
+        [100,400]
+      ]
+    },
+    {
+      "name": "waiting_zone",
+      "type": "loitering",
+      "loiter_time": 10,
+      "points": [
+        [600,100],
+        [900,100],
+        [900,500],
+        [600,500]
+      ]
+    }
+  ]
+}

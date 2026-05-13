@@ -1,0 +1,14 @@
+opencv-python==4.8.1.78
+opencv-contrib-python==4.8.1.78
+torch>=2.0.1
+torchvision>=0.15.2
+ultralytics>=8.1.0
+numpy>=1.24.3
+scipy==1.11.2
+pydantic==2.3.0
+pyyaml==6.0.1
+Pillow==10.0.0
+tqdm==4.66.1
+supervision
+shapely
+deep-sort-realtime
